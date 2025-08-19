@@ -1,6 +1,8 @@
 import requests
 import pandas as pd
 
+# URL TO ACCESS TAGS EXPLANATIONS: https://wiki.openstreetmap.org/wiki/Map_features#Addresses
+
 # Overpass API endpoint
 OVERPASS_URL = "http://overpass-api.de/api/interpreter"
 
